@@ -3,7 +3,6 @@ import 'package:personal_expenses_app/widget/chart.dart';
 import './widget/new_transaction.dart';
 import './widget/transaction_list.dart';
 import 'models/transaction.dart';
-
 void main() {
   runApp(const MyApp());
 }
